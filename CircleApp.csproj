@@ -8,7 +8,7 @@
         <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
         <PublishSingleFile>true</PublishSingleFile>
         <SelfContained>true</SelfContained>
-        <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+        <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
         <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
         <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
         <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
