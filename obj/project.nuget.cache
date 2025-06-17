@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wvHzwqLd0IQ=",
+  "dgSpecHash": "F7DkU0IUMOI=",
   "success": true,
   "projectFilePath": "/home/nana/CircleApp/CircleApp.csproj",
   "expectedPackageFiles": [
@@ -41,10 +41,11 @@
     "/home/nana/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/home/nana/.nuget/packages/system.reactive/6.0.1/system.reactive.6.0.1.nupkg.sha512",
     "/home/nana/.nuget/packages/tmds.dbus.protocol/0.21.2/tmds.dbus.protocol.0.21.2.nupkg.sha512",
-    "/home/nana/.nuget/packages/microsoft.netcore.app.runtime.win-x64/9.0.4/microsoft.netcore.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "/home/nana/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/9.0.4/microsoft.netcore.app.runtime.linux-x64.9.0.4.nupkg.sha512",
     "/home/nana/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512",
-    "/home/nana/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/9.0.4/microsoft.aspnetcore.app.runtime.win-x64.9.0.4.nupkg.sha512",
-    "/home/nana/.nuget/packages/microsoft.netcore.app.host.win-x64/9.0.4/microsoft.netcore.app.host.win-x64.9.0.4.nupkg.sha512"
+    "/home/nana/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/9.0.4/microsoft.aspnetcore.app.runtime.linux-x64.9.0.4.nupkg.sha512",
+    "/home/nana/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/9.0.4/microsoft.netcore.app.crossgen2.linux-x64.9.0.4.nupkg.sha512",
+    "/home/nana/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.4/microsoft.netcore.app.host.linux-x64.9.0.4.nupkg.sha512"
   ],
   "logs": []
 }
